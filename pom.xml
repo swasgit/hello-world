@@ -16,8 +16,8 @@
 
     <scm>
         <url>https://github.com/swasgit/hello-world/tree/master</url>
-        <connection>scm:git: https://github.com/swasgit/hello-world.git</connection>
-        <developerConnection>scm:git: https://github.com/swasgit/hello-world.git</developerConnection>
+        <connection>scm:git:https://github.com/swasgit/hello-world.git</connection>
+        <developerConnection>scm:git:https://github.com/swasgit/hello-world.git</developerConnection>
     </scm>
 
 
